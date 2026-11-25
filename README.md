@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="assets/hero.jpg" alt="PUBG Stutter Fix — shader cache cleanup, config optimizer and frametime logging" width="100%">
 
